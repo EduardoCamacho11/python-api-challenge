@@ -1,6 +1,10 @@
 #Adding config.py file.
+<<<<<<< HEAD
 WeatherPy/api_keys.py
 VacationPy/api_keys.py
+=======
+api_keys.py
+>>>>>>> a486d04336f7f899039ceb17e8c370657d25ceb8
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
